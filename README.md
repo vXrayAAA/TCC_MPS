@@ -1,11 +1,11 @@
 # TCC_MPS
 
 
-Configuração e Inicialização:
+#Configuração e Inicialização:
 
-Incluições de bibliotecas e definição de constantes.
-Inicialização de variáveis e configuração de tags e contadores.
-Manipuladores de Eventos para WiFi e MQTT:
+*Incluições de bibliotecas e definição de constantes.
+*Inicialização de variáveis e configuração de tags e contadores.
+*Manipuladores de Eventos para WiFi e MQTT:
 
 Configuração de manipuladores de eventos para lidar com eventos relacionados à conexão WiFi e MQTT.
 Inicialização do WiFi:
